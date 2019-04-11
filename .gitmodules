@@ -1,0 +1,3 @@
+[submodule "altitude"]
+	path = altitude
+	url = https://github.com/kototoibashi/HtmlAltitudeGraph.git
